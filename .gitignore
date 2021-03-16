@@ -26,3 +26,7 @@ hs_err_pid*
 # from project
 .classpath
 .project
+
+# IntelliJ
+.idea/
+chess-java.iml
