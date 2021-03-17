@@ -1,16 +1,15 @@
 package application;
 
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.ChessPosition;
-import chess.Color;
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
+
+import chess.ChessMatch;
+import chess.ChessPiece;
+import chess.ChessPosition;
+import chess.Color;
 
 public class UI {
 
